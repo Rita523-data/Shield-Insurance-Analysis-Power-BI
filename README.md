@@ -9,7 +9,7 @@ The analysis reveals monthly growth patterns, identifies top-performing cities a
 
 # Interactive Dashboard link :
 
-[Click here to View]()
+[Click here to View](https://app.powerbi.com/view?r=eyJrIjoiMTNmOTY1ZDEtNzhiNy00MmRmLTgxMWItMTc0MjNlMGM0ODI5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 # Presentation LInk : 
 
